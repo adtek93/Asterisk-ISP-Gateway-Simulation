@@ -1,4 +1,4 @@
-# 📌 Project: Asterisk ISP Gateway Simulation
+# 📌 Asterisk ISP Gateway Simulation
 
 ## 1. Description
 This project simulates a **Telco/ISP environment** using **Asterisk**:
